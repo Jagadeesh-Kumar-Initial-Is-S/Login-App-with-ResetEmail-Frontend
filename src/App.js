@@ -1,6 +1,6 @@
 import React from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-
+import './App.css';
 
 /** import all components */
 import Username from './components/Username';
@@ -49,8 +49,8 @@ const router = createBrowserRouter([
 
 export default function App() {
   return (
-    <main>
-        <RouterProvider router={router}></RouterProvider>
-    </main>
+    <><advertisement><center>Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</center></advertisement><main>
+          <RouterProvider router={router}></RouterProvider>
+      </main><advertisement><center>Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</center></advertisement></>
   )
 }
