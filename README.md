@@ -1,3 +1,61 @@
+<hr/>
+
+#This is working at 100%. 
+
+<hr/>
+
+# Brief
+
+Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
+
+<hr/>
+
+# Task 
+
+Task - Deployment practice .
+
+<hr/>
+
+# Front-end
+
+Front-end which is used is equal to ReactJS or React.js or React .
+
+<hr/>
+
+# Front-end Source code
+
+Front-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/todo-app-frontend .
+
+<hr/>
+
+# Front-end Deployed URL
+
+Front-end Deployed URL's link is equal to https://login-app-with-reset-email-frontend.vercel.app/ .
+
+<hr/>
+
+# Screenshots
+
+## Screenshot 1
+
+### Homepage
+
+![image](https://user-images.githubusercontent.com/115778774/216047851-7382a47a-646b-4dbd-a9b1-494763df560a.png)
+
+## Screenshot 2
+
+### Password
+
+![image](https://user-images.githubusercontent.com/115778774/216048373-5ec93870-2bd3-408c-ac49-b789bb97561c.png)
+
+## Screenshot 3
+
+### Recovery
+
+![image](https://user-images.githubusercontent.com/115778774/216048644-d7f7d524-d05a-47dc-ab2b-845a42db42af.png)
+
+<hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
