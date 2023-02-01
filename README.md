@@ -16,6 +16,16 @@ Task - Deployment practice .
 
 <hr/>
 
+# Working with the Project
+
+create .env file and put this code inside it. 
+
+.env
+
+REACT_APP_SERVER_DOMAIN=https://login-app-with-resetemail-server.onrender.com/
+
+<hr/>
+
 # Front-end
 
 Front-end which is used is equal to ReactJS or React.js or React .
