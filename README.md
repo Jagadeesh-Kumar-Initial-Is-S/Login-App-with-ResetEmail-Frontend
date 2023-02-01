@@ -22,7 +22,7 @@ create .env file and put this code inside it.
 
 .env
 
-REACT_APP_SERVER_DOMAIN=https://login-app-with-resetemail-server.onrender.com/
+REACT_APP_SERVER_DOMAIN=https://login-app-with-resetemail-server.onrender.com
 
 <hr/>
 
